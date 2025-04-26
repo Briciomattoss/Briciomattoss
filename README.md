@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Abner Trindade, dev back-end 
 
 - 🔭 Atualmente na área de back-end
-- 🌱 Estudando/Aprimorando Python
+- 🌱 Estudando/Aprimorando Banco de Dados
 - 😄 Pronouns: ele/dele
 
 <div>
