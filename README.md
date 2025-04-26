@@ -1,4 +1,4 @@
-## Olá! Eu sou o Abner Trindade, dev back-end 
+## Olá! Eu sou o Fabrício Matos De Sousa
 
 - 🔭 Atualmente na área de back-end
 - 🌱 Estudando/Aprimorando Banco de Dados
