@@ -8,9 +8,10 @@
 ##
 
 ### 📊 About Me
-Hi! I'm **Fabrício Matos De Sousa**, a passionate developer and student of **Analysis and Systems Development** currently in my second semester.  
-I'm focused on **back-end development**, but also working on **data analysis projects** to gain broader experience and understanding of systems.  
-I'm always open to learning and collaborating on exciting tech opportunities.
+Hi! I'm **Fabrício Matos De Sousa**, a passionate developer and student of **Analysis and Systems Development**, currently in my second semester.  
+I work in the **data analysis** field, specializing in the **creation of management dashboards**, **data visualization**, and **data cross-referencing** to support strategic decision-making.  
+I'm focused on **back-end development**, always aiming to connect systems and data with efficiency.  
+Open to learning, collaborating, and improving every day.
 
 ##
 
@@ -30,8 +31,6 @@ I'm always open to learning and collaborating on exciting tech opportunities.
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
 ##
